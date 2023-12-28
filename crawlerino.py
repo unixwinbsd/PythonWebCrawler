@@ -194,9 +194,8 @@ def samedomain(netloc1, netloc2):
 
     This function does a "subdomain-insensitive" comparison. In other words ...
 
-    samedomain('www.microsoft.com', 'microsoft.com') == True
-    samedomain('google.com', 'www.google.com') == True
-    samedomain('api.github.com', 'www.github.com') == True
+    samedomain('www.unixwinbsd.site', 'unixwinbsd.site') == True
+    samedomain('unixwinbsd.site', 'www.unixwinbsd.site') == True
     """
     domain1 = netloc1.lower()
     if "." in domain1:
@@ -245,6 +244,6 @@ if __name__ == "__main__":
     # set stdout to support UTF-8
     sys.stdout = open(sys.stdout.fileno(), mode="w", encoding="utf-8", buffering=1)
     START = default_timer()
-    crawler("https://www.microsoft.com", maxpages=10)
+    crawler("https://www.unixwinbsd.site", maxpages=350)
     END = default_timer()
     print("Elapsed time (seconds) = " + str(END - START))
