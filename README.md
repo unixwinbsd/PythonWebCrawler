@@ -13,6 +13,7 @@ Python PIP
 Pyhon VENV
 
 Installation:
+
 root@ns7:~ # cd /root/.cache/pypoetry
 root@ns7:~/.cache/pypoetry # source bin/activate.csh
 
@@ -20,6 +21,7 @@ You can directly install two Python libraries, namely "Requests" and "Beautiful 
 (pypoetry) root@ns7:~/.cache/pypoetry # pip install requests bs4
 
 Run:
+
 (pypoetry) root@ns7:~/.cache/pypoetry/PythonWebCrawler # python pycrawler.py
 
 For more information, please visit:
