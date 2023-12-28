@@ -1,4 +1,5 @@
 <properties LandingPageTags="Python,webscraping,webcrawling" />
+# PythonWebCrawler
 # Python Web Crawler For Blogspot, Wordpress and other
 
 A web crawler, spider, or search engine bot downloads and indexes content from web sites such as blogs, WordPress or others. The goal of such a bot is to learn (almost) every blog page on the web, so that the information can be retrieved when needed. They are called "web crawlers" because crawling is the technical term for automatically accessing a blog site and obtaining data through a software program.
@@ -68,5 +69,3 @@ Crawling:https://www.unixwinbsd.site/2023/11/implementing-dokuwiki-on-freebsd.ht
 Crawling:https://www.unixwinbsd.site/2023/11/building-freebsd-private-cloud-server.html (117304 bytes)
 Crawling:https://www.unixwinbsd.site/search/label/WEB%20SERVER?updated-max=2023-11-22T22:34:00-08:00&max-results=10&start=7&by-date=false (103894 bytes)
 Crawling:https://www.unixwinbsd.site/2023/12/installing-freebsd-dhcp-server-with-pf.html (127517 bytes)
-
-# PythonWebCrawler
