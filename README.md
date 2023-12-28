@@ -22,14 +22,14 @@ You can directly install two Python libraries, namely "Requests" and "Beautiful 
 
 Run:
 
-(pypoetry) root@ns7:~/.cache/pypoetry/PythonWebCrawler # python pycrawler.py
+(pypoetry) root@ns7:~/.cache/pypoetry/PythonWebCrawler # python crawlerino.py
 
 For more information, please visit:
 https://www.unixwinbsd.site
 
 
 
-(pypoetry) root@ns7:~/.cache/pypoetry/PythonWebCrawler # python pycrawler.py
+(pypoetry) root@ns7:~/.cache/pypoetry/PythonWebCrawler # python crawlerino.py
 Crawling:https://www.unixwinbsd.site (109147 bytes)
 Crawling:https://www.unixwinbsd.site/ (109147 bytes)
 Crawling:https://www.unixwinbsd.site/p/sitemap222.html (80185 bytes)
